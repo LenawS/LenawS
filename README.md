@@ -9,8 +9,6 @@ Trenutno se učim novih tehnologij, izboljšujem svoje znanje in počasi gradim 
 
 🌐 Razvoj spletnih strani
 
-🐍 Python
-
 🗃️ Osnove Git & GitHub
 
 🎯 Moj cilj
