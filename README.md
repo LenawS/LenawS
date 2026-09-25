@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Živjo!
+💻 O meni
+Sem dijak računalniške šole in trenutno raziskujem svet programiranja.
 
-<!--
-**LenawS/LenawS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trenutno se učim novih tehnologij, izboljšujem svoje znanje in počasi gradim svoje prve projekte. 🚀
 
-Here are some ideas to get you started:
+🧠 Trenutno se učim
+💻 Programiranje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Razvoj spletnih strani
+
+🐍 Python
+
+🗃️ Osnove Git & GitHub
+
+🎯 Moj cilj
+Želim pridobiti čim več praktičnega znanja in sčasoma ustvariti svoje prve zanimive projekte.
+
+⭐ Hvala za obisk mojega profila!
